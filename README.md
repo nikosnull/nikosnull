@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Angular 15 & 17<br>🤔 I’m curious about Vue.js<br>🌱 I’m currently learning more about AI<br>💬 Ask me about CSS<br>⚡ I love PHP
+🔭 I’m currently working on Angular 15 & 17<br>🤔 I’m curious about Homelabs<br>🌱 I’m currently learning more about Astro<br>💬 Ask me about CSS<br>⚡ I love PHP
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nikos-koulouridis-greece) 
 
